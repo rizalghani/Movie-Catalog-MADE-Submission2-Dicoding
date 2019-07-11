@@ -1,0 +1,183 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Movie Pedia</string>
+    <string name="movie_title">Spider-Man: Far from Home</string>
+    <string name="movie_category">Action, Adventure, Science Fiction | 2h 9min | 23 Maret 2019</string>
+    <string name="movie_desc">Peter Parker dan teman-temannya melakukan perjalanan musim panas ke Eropa. Namun, mereka hampir tidak dapat beristirahat - Peter harus setuju untuk membantu Nick Fury mengungkap misteri makhluk yang menyebabkan bencana alam dan kehancuran di seluruh benua.</string>
+    <string name="movie_rate">8</string>
+    <string name="max_movie_rate">/10</string>
+    <string name="movie_feature">Fitur</string>
+    <string name="movie_production">Produksi</string>
+    <string name="movie_production_value">Hollywood</string>
+    <string name="movie_lang">Bahasa</string>
+    <string name="movie_lang_value">Inggris</string>
+    <string name="movie_status">Status</string>
+    <string name="movie_status_value">Rilis</string>
+    <string name="trailer_title">Trailer</string>
+    <string name="overview_title">Ikhtisar</string>
+
+    <string name="this_is_poster">Ini untuk Poster Movie</string>
+    <string name="this_for_background_image">Ini untuk Link Trailer Gambar Latar Belakang</string>
+    <string name="this_for_button">Ini untuk Link Putar Trailer Tombol</string>
+    <string name="change_language_settings" tools:keep="@string/change_language_settings">Change Language Setting</string>
+
+
+    <string-array name="data_movie_name">
+        <item>Spider-Man: Far from Home (2019)</item>
+        <item>Toy Story 4 (2019)</item>
+        <item>Shazam! (2019)</item>
+        <item>Shaft (2019)</item>
+        <item>Alita: Battle Angel (2019)</item>
+        <item>Dark Phoenix (2019)</item>
+        <item>Captain Marvel (2019)</item>
+        <item>Aladdin (2019)</item>
+        <item>Annabelle Comes Home (2019)</item>
+        <item>John Wick: Chapter 3 – Parabellum (2019)</item>
+    </string-array>
+
+    <string-array name="data_movie_rating">
+        <item>8</item>
+        <item>7.7</item>
+        <item>7.1</item>
+        <item>6.2</item>
+        <item>8.5</item>
+        <item>7.7</item>
+        <item>7.5</item>
+        <item>8.3</item>
+        <item>7.5</item>
+        <item>8.5</item>
+    </string-array>
+
+    <string-array name="data_movie_category">
+        <item>2h 9min | Action, Adventure, Science Fiction | 23 March 2019</item>
+        <item>1h 40min | Animation, Adventure, Comedy, Family | 21 June 2019</item>
+        <item>2h 12min | Action, Comedy, Fantasy | 23 March 2019</item>
+        <item>1h 51min | Action, Crime, Comedy | 14 June 2019</item>
+        <item>2h 2min | Action, Science Fiction, Thriller, Adventure | 14 February 2019</item>
+        <item>1h 54min | Science Fiction, Action, Adventure | 07 June 2019</item>
+        <item>2h 4min | Action, Adventure, Science Fiction | 08 March 2019</item>
+        <item>2h 10min | Adventure, Fantasy, Romance, Comedy, Family | 24 May 2019</item>
+        <item>1h 46min | Horror | 26 June 2019</item>
+        <item>2h 11min | Crime, Action, Thriller | 17 May 2019</item>
+    </string-array>
+
+    <string-array name="data_movie_desc">
+        <item> Peter Parker dan teman-temannya melakukan perjalanan musim panas ke Eropa. Namun, mereka hampir tidak dapat beristirahat - Peter harus setuju untuk membantu Nick Fury mengungkap misteri makhluk yang menyebabkan bencana alam dan kehancuran di seluruh benua. </item>
+                <item> Woody selalu yakin tentang tempatnya di dunia dan bahwa prioritasnya adalah merawat anaknya, apakah itu Andy atau Bonnie. Tetapi ketika Bonnie menambahkan mainan baru yang enggan disebut "Forky" ke kamarnya, petualangan perjalanan bersama teman-teman lama dan baru akan menunjukkan kepada Woody seberapa besar dunia untuk mainan. </item>
+                <item> Seorang anak laki-laki diberi kemampuan untuk menjadi superhero dewasa di saat dibutuhkan dengan satu kata ajaib. </item>
+                <item> JJ, alias John Shaft Jr., mungkin ahli keamanan cyber dengan gelar sarjana dari MIT, tetapi untuk mengungkap kebenaran di balik kematian sahabatnya, dia membutuhkan pendidikan yang hanya bisa diberikan oleh ayahnya. Tidak ada di sepanjang masa muda JJ, John Shaft yang legendaris terkunci dan setuju untuk membantu keturunannya menavigasi perut Harlem yang penuh dengan heroin. </item>
+                <item> Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa. </item>
+                <item> X-Men menghadapi musuh mereka yang paling tangguh dan kuat ketika salah satu dari mereka, Jean Gray, mulai lepas kendali. Selama misi penyelamatan di luar angkasa, Jean hampir terbunuh ketika dia ditabrak oleh kekuatan kosmik misterius. Begitu dia kembali ke rumah, kekuatan ini tidak hanya membuatnya jauh lebih kuat, tetapi jauh lebih tidak stabil. X-Men sekarang harus bersatu untuk menyelamatkan jiwanya dan melawan alien yang ingin menggunakan Grey kemampuan baru untuk memerintah galaksi. </item>
+                <item> Cerita ini mengikuti Carol Danvers saat dia menjadi salah satu pahlawan paling kuat di alam semesta ketika Bumi terperangkap di tengah perang galaksi antara dua ras alien. Bertempat di tahun 1990-an, Kapten Marvel adalah petualangan yang sepenuhnya baru dari periode yang sebelumnya tidak terlihat dalam sejarah Marvel Cinematic Universe. </item>
+                <item> Seorang anak jalanan yang baik hati bernama Aladdin memulai petualangan ajaib setelah menemukan lampu yang melepaskan jin yang membingungkan sementara Wazir Agung yang haus kekuasaan bersaing untuk lampu yang sama yang memiliki kekuatan untuk membuat harapan terdalam mereka menjadi kenyataan. </item >
+                <item> Bertekad untuk menjaga Annabelle dari membuat lebih banyak kekacauan, ahli iblis Ed dan Lorraine Warren membawa boneka kesurupan ke ruang artefak yang terkunci di rumah mereka, menempatkannya dengan aman di balik kaca suci dan meminta berkah suci seorang imam. Tetapi malam horor yang tidak suci menunggu ketika Annabelle membangunkan roh-roh jahat di ruangan itu, yang semuanya mengarahkan target mereka pada target baru — anak perempuan Warrens yang berusia sepuluh tahun, Judy, dan teman-temannya. </item>
+                <item> Pembunuh super John Wick kembali dengan label harga $ 14 juta di kepalanya dan sepasukan pembunuh pemburu bayaran di jalurnya. Setelah membunuh anggota guild pembunuh bayaran internasional bayangan, High Table, John Wick adalah ekskomunikasi, tetapi pria dan wanita hit paling kejam di dunia menunggu setiap kesempatannya. </item>
+    </string-array>
+
+    <string-array name="data_movie_poster">
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_toy_story</item>
+        <item>@drawable/poster_shazam</item>
+        <item>@drawable/poster_shaft</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_phoenix</item>
+        <item>@drawable/poster_captain_marvel</item>
+        <item>@drawable/poster_aladdin</item>
+        <item>@drawable/poster_annabele</item>
+        <item>@drawable/poster_jhon_wick</item>
+    </string-array>
+
+    <string name="title_activity_main_tabbed">Movie Pedia</string>
+    <string name="tab_text_1">MOVIES</string>
+    <string name="tab_text_2">TV SHOWS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" tools:keep="@string/hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_poster_movie">Image Poster Movie</string>
+
+
+    <string-array name="data_tv_name">
+        <item>See No Evil: The Moors Murders (2006)</item>
+        <item>The Flash (2014)</item>
+        <item>Legion (2017)</item>
+        <item>Fear the Walking Dead (2015)</item>
+        <item>Game of Thrones (2011)</item>
+        <item>Gotham (2014)</item>
+        <item>The Blacklist (2013)</item>
+        <item>Chernobyl (2019)</item>
+        <item>Doctor Who (2005)</item>
+        <item>Doom Patrol (2019)</item>
+    </string-array>
+
+    <string-array name="data_tv_rating">
+        <item>7.1</item>
+        <item>8.5</item>
+        <item>9.5</item>
+        <item>8.5</item>
+        <item>7.5</item>
+        <item>8.8</item>
+        <item>8.5</item>
+        <item>7.5</item>
+        <item>8.1</item>
+        <item>7.5</item>
+    </string-array>
+
+    <string-array name="data_tv_category">
+        <item>60min | Drama | TV Series</item>
+        <item>45min | Drama, Sci-fi, Fantasy | TV Series </item>
+        <item>50min | Action, Adventure, Sci-fi, Fantasy | TV Series </item>
+        <item>30min | Drama, Horror | TV Series (2015)</item>
+        <item>60min | Action, Adventure, Sci-fi, Fantasy, Drama | TV Series</item>
+        <item>50min | Drama, Fantasy, Crime | TV Series</item>
+        <item>30min | Drama, Crime, Mystery | TV Series</item>
+        <item>45min | Drama | TV Series</item>
+        <item>60min | Action, Adventure, Sci-fi, Fantasy, Drama | TV Series</item>
+        <item>50min | Action, Adventure, Sci-fi, Fantasy | TV Series</item>
+    </string-array>
+
+    <string-array name="data_tv_desc">
+        <item>
+            Dramatisasi salah satu kegiatan pembunuhan paling terkenal dalam sejarah Inggris.
+        </item>
+                <item>
+            Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya manusia meta yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.
+        </item>
+                <item>
+            David Haller, Legiun AKA, adalah seorang pemuda bermasalah yang mungkin lebih dari manusia. Didiagnosis sebagai penderita skizofrenia, David telah keluar masuk rumah sakit jiwa selama bertahun-tahun. Tetapi setelah pertemuan aneh dengan sesama pasien, dia dihadapkan dengan kemungkinan bahwa suara yang dia dengar dan penglihatan yang dia lihat mungkin nyata.
+        </item>
+                <item>
+            Seperti apa dunia saat berubah menjadi kiamat mengerikan yang digambarkan dalam The Walking Dead? Spin-off ini ditetapkan di Los Angeles, mengikuti karakter baru saat mereka menghadapi awal akhir dunia, akan menjawab pertanyaan itu.
+        </item>
+                <item>
+            Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Nights Watch, adalah yang berdiri di antara alam manusia dan kengerian es di luarnya.
+        </item>
+                <item>
+           Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordons dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?
+        </item>
+                <item>
+            Raymond Red Reddington, salah satu buronan FBI yang paling dicari, menyerah secara langsung di Markas Besar FBI di Washington, D.C. Dia mengklaim bahwa dia dan FBI memiliki kepentingan yang sama: menjatuhkan penjahat dan teroris berbahaya. Dalam dua dekade terakhir, ia dibuat daftar penjahat dan teroris yang paling berarti tetapi FBI tidak dapat menemukan karena tidak tahu mereka ada. Reddington menyebut ini Daftar Hitam. Reddington akan bekerja sama, tetapi menegaskan bahwa ia akan berbicara hanya dengan Elizabeth Keen, seorang profiler pemula FBI.
+        </item>
+                <item>
+            Dramatisasi kisah nyata dari salah satu bencana buatan manusia terburuk dalam sejarah, kecelakaan nuklir bencana di Chernobyl. Sebuah kisah tentang pria dan wanita pemberani yang berkorban untuk menyelamatkan Eropa dari bencana yang tak terbayangkan.
+        </item>
+                <item>
+            The Doctor is a Time Lord: alien berusia 900 tahun dengan 2 hati, bagian dari peradaban berbakat yang menguasai perjalanan waktu. Dokter menyelamatkan planet untuk mencari nafkah - sebenarnya lebih dari hobi, dan Dokter sangat, sangat pandai dalam hal itu.
+        </item>
+                <item>
+            Patroli Doom adalah anggota yang masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.
+        </item>
+    </string-array>
+
+    <string-array name="data_tv_poster">
+        <item>@drawable/tv_see_no_evil</item>
+        <item>@drawable/tv_the_flash</item>
+        <item>@drawable/tv_legion</item>
+        <item>@drawable/tv_the_walking_dead</item>
+        <item>@drawable/tv_game_of_thrones</item>
+        <item>@drawable/tv_gotham</item>
+        <item>@drawable/tv_the_blacklist</item>
+        <item>@drawable/tv_chernobyl</item>
+        <item>@drawable/tv_doctor_who</item>
+        <item>@drawable/tv_doom_patrol</item>
+    </string-array>
+
+</resources>

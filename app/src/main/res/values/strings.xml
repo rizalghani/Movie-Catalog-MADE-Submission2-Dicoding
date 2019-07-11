@@ -1,0 +1,184 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Movie Pedia</string>
+    <string name="movie_title">Spider-Man: Far from Home</string>
+    <string name="movie_category">Action, Adventure, Science Fiction | 2h 9min | 23 March 2019</string>
+    <string name="movie_desc">Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</string>
+    <string name="movie_rate">8</string>
+    <string name="max_movie_rate">/10</string>
+    <string name="movie_feature">Fitur</string>
+    <string name="movie_production">Production</string>
+    <string name="movie_production_value">Hollywood</string>
+    <string name="movie_lang">Languange</string>
+    <string name="movie_lang_value">English</string>
+    <string name="movie_status">Status</string>
+    <string name="movie_status_value">Released</string>
+
+    <string name="trailer_title">Trailer</string>
+    <string name="overview_title">Overview</string>
+    <string name="this_is_poster">This is for Poster Movie</string>
+    <string name="this_for_background_image">This for Background Image Trailer Link</string>
+    <string name="this_for_button">This for Button Play Trailer Link</string>
+    <string name="change_language_settings" tools:keep="@string/change_language_settings">Change Language Setting</string>
+
+
+    <string-array name="data_movie_name">
+        <item>Spider-Man: Far from Home (2019)</item>
+        <item>Toy Story 4 (2019)</item>
+        <item>Shazam! (2019)</item>
+        <item>Shaft (2019)</item>
+        <item>Alita: Battle Angel (2019)</item>
+        <item>Dark Phoenix (2019)</item>
+        <item>Captain Marvel (2019)</item>
+        <item>Aladdin (2019)</item>
+        <item>Annabelle Comes Home (2019)</item>
+        <item>John Wick: Chapter 3 – Parabellum (2019)</item>
+    </string-array>
+
+    <string-array name="data_movie_rating">
+        <item>8</item>
+        <item>7.7</item>
+        <item>7.1</item>
+        <item>6.2</item>
+        <item>8.5</item>
+        <item>7.7</item>
+        <item>7.5</item>
+        <item>8.3</item>
+        <item>7.5</item>
+        <item>8.5</item>
+    </string-array>
+
+    <string-array name="data_movie_category">
+        <item>2h 9min | Action, Adventure, Science Fiction | 23 March 2019</item>
+        <item>1h 40min | Animation, Adventure, Comedy, Family | 21 June 2019</item>
+        <item>2h 12min | Action, Comedy, Fantasy | 23 March 2019</item>
+        <item>1h 51min | Action, Crime, Comedy | 14 June 2019</item>
+        <item>2h 2min | Action, Science Fiction, Thriller, Adventure | 14 February 2019</item>
+        <item>1h 54min | Science Fiction, Action, Adventure | 07 June 2019</item>
+        <item>2h 4min | Action, Adventure, Science Fiction | 08 March 2019</item>
+        <item>2h 10min | Adventure, Fantasy, Romance, Comedy, Family | 24 May 2019</item>
+        <item>1h 46min | Horror | 26 June 2019</item>
+        <item>2h 11min | Crime, Action, Thriller | 17 May 2019</item>
+    </string-array>
+
+    <string-array name="data_movie_desc">
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that Andy or Bonnie. But when Bonnie adds a reluctant new toy called "Forky" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</item>
+        <item>A boy is given the ability to become an adult superhero in times of need with a single magic word.</item>
+        <item>JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.</item>
+        <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item>The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey new abilities to rule the galaxy.</item>
+        <item>The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.</item>
+        <item>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</item>
+        <item>Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her safely behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens ten-year-old daughter, Judy, and her friends.</item>
+        <item>Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.</item>
+    </string-array>
+
+    <string-array name="data_movie_poster">
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_toy_story</item>
+        <item>@drawable/poster_shazam</item>
+        <item>@drawable/poster_shaft</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_phoenix</item>
+        <item>@drawable/poster_captain_marvel</item>
+        <item>@drawable/poster_aladdin</item>
+        <item>@drawable/poster_annabele</item>
+        <item>@drawable/poster_jhon_wick</item>
+    </string-array>
+
+    <string name="title_activity_main_tabbed">Movie Pedia</string>
+    <string name="tab_text_1">MOVIES</string>
+    <string name="tab_text_2">TV SHOWS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" tools:keep="@string/hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_poster_movie">Image Poster Movie</string>
+
+
+    <string-array name="data_tv_name">
+        <item>See No Evil: The Moors Murders (2006)</item>
+        <item>The Flash (2014)</item>
+        <item>Legion (2017)</item>
+        <item>Fear the Walking Dead (2015)</item>
+        <item>Game of Thrones (2011)</item>
+        <item>Gotham (2014)</item>
+        <item>The Blacklist (2013)</item>
+        <item>Chernobyl (2019)</item>
+        <item>Doctor Who (2005)</item>
+        <item>Doom Patrol (2019)</item>
+    </string-array>
+
+    <string-array name="data_tv_rating">
+        <item>7.1</item>
+        <item>8.5</item>
+        <item>9.5</item>
+        <item>8.5</item>
+        <item>7.5</item>
+        <item>8.8</item>
+        <item>8.5</item>
+        <item>7.5</item>
+        <item>8.1</item>
+        <item>7.5</item>
+    </string-array>
+
+    <string-array name="data_tv_category">
+        <item>60min | Drama | TV Series</item>
+        <item>45min | Drama, Sci-fi, Fantasy | TV Series </item>
+        <item>50min | Action, Adventure, Sci-fi, Fantasy | TV Series </item>
+        <item>30min | Drama, Horror | TV Series (2015)</item>
+        <item>60min | Action, Adventure, Sci-fi, Fantasy, Drama | TV Series</item>
+        <item>50min | Drama, Fantasy, Crime | TV Series</item>
+        <item>30min | Drama, Crime, Mystery | TV Series</item>
+        <item>45min | Drama | TV Series</item>
+        <item>60min | Action, Adventure, Sci-fi, Fantasy, Drama | TV Series</item>
+        <item>50min | Action, Adventure, Sci-fi, Fantasy | TV Series</item>
+    </string-array>
+
+    <string-array name="data_tv_desc">
+        <item>
+            The dramatisation of one of the most notorious killing sprees in British history.
+        </item>
+        <item>
+            After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only meta-human who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become...The Flash.
+        </item>
+        <item>
+            David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.
+        </item>
+        <item>
+            What did the world look like as it was transforming into the horrifying apocalypse depicted in The Walking Dead? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.
+        </item>
+        <item>
+            Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Nights Watch, is all that stands between the realms of men and icy horrors beyond.
+        </item>
+        <item>
+           Everyone knows the name Commissioner Gordon. He is one of the crime worlds greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordons story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the worlds most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?
+        </item>
+        <item>
+            Raymond Red Reddington, one of the FBIs most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he is made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this The Blacklist. Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.
+        </item>
+        <item>
+            A dramatization of the true story of one of the worst man-made catastrophes in history, the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.
+        </item>
+        <item>
+            The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living – more of a hobby actually, and the Doctors very, very good at it.
+        </item>
+        <item>
+            The Doom Patrol is members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.
+        </item>
+    </string-array>
+
+    <string-array name="data_tv_poster">
+        <item>@drawable/tv_see_no_evil</item>
+        <item>@drawable/tv_the_flash</item>
+        <item>@drawable/tv_legion</item>
+        <item>@drawable/tv_the_walking_dead</item>
+        <item>@drawable/tv_game_of_thrones</item>
+        <item>@drawable/tv_gotham</item>
+        <item>@drawable/tv_the_blacklist</item>
+        <item>@drawable/tv_chernobyl</item>
+        <item>@drawable/tv_doctor_who</item>
+        <item>@drawable/tv_doom_patrol</item>
+    </string-array>
+
+
+</resources>
